@@ -138,5 +138,6 @@ plt.savefig('Python_Tutorial_Weight_Plot.png')
 plt.show()
 
 ```
+![linear](https://github.com/WesleySluga/CEE4530/blob/master/Python_Tutorial_Weight_Plot.png)
 $$W = 6.486*A+32.33$$
 Where W is Weight in kilograms, and A is age in years, with slope equal to 6.486 kilograms per year and an intercept of 32.33 kilograms.
