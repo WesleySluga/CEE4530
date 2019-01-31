@@ -1,5 +1,5 @@
 Age(years)  Weight(pounds)
-10 75
+10  75
 11  77
 12  88
 13  105
