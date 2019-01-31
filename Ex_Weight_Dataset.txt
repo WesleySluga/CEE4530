@@ -18,4 +18,4 @@ Age(years)	Weight(kilograms)
 26	191
 27	189
 28	194
-29	198
+29	197
